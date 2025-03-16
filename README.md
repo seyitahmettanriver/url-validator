@@ -21,7 +21,7 @@ URL'lerin erişilebilirliğini kontrol eden, eş zamanlı tarama yapabilen ve so
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/url-validator.git
+git clone https://github.com/seyitahmettanriver/url-validator.git
 cd url-validator
 ```
 
@@ -100,8 +100,8 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
-- E-posta: ornek@email.com
+- GitHub: [@seyitahmettanriver](https://github.com/seyitahmettanriver)
+- Proje URL: [https://github.com/seyitahmettanriver/url-validator](https://github.com/seyitahmettanriver/url-validator)
 
 ## 🙏 Teşekkürler
 
